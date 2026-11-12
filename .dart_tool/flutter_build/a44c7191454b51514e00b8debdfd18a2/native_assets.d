@@ -1,0 +1,1 @@
+ C:\\Users\\yanet\\primera_app\\.dart_tool\\flutter_build\\a44c7191454b51514e00b8debdfd18a2\\native_assets.yaml: 
